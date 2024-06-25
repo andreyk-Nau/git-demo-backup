@@ -36,3 +36,5 @@ Words are very unnecessary
 They can only do harm
 
 author - Depeche Mode
+
+my example to work in git
